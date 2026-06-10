@@ -61,7 +61,5 @@ for name, model in models.items():
     print(f"\n{name}:")
     print(f"MAE: {mae:.4f} | RMSE: {rmse:.4f} | R2: {r2:.4f}")
 
-# Best Model
-print("GitHub: @EsmaeliKourosh")
 
 #GitHub: @EsmaeliKourosh
