@@ -37,6 +37,5 @@ This project demonstrates a **professional Machine Learning pipeline** for predi
 # Clone the repo
 git clone https://github.com/EsmaeliKourosh/ai-ml-python-portfolio.git
 
-cd 01_House_Price_Prediction
 pip install -r requirements.txt
 jupyter notebook notebooks/house_price_prediction.ipynb
